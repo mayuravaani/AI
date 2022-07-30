@@ -1,4 +1,4 @@
-##AI
+#AI
 
 1. Data Collection
 2. Preprocessing
